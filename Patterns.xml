@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AMASequences>
+    <Sequence name="Club or Novice Class">
+        <Maneuver name="Takeoff Sequence" />
+        <Maneuver name="Straight Flight Out" />
+        <Maneuver name="Procedure Turn" />
+        <Maneuver name="Straight Flight Back" />
+        <Maneuver name="Stall Turn without Rolls" />
+        <Maneuver name="Immelmann Turn" />
+        <Maneuver name="45 Degree upline" />
+        <Maneuver name="Straight Inverted Flight" />
+        <Maneuver name="Two Inside Loops" />
+        <Maneuver name="Landing Sequence" />
+    </Sequence>
+
+    <Sequence name="Sportsman">
+        <Maneuver name="Takeoff Sequence" />
+        <Maneuver name="ENTER BOX" />
+        <Maneuver name="Straight Flight Out" />
+        <Maneuver name="Half Reverse Cuban Eight" />
+        <Maneuver name="Straight Flight Back" />
+        <Maneuver name="Stall Turn without Rolls" />
+        <Maneuver name="Double Immelmann without Rolls" />
+        <Maneuver name="EXIT BOX (upwind-free turnaround)" />
+        <Maneuver name="ENTER BOX (going downwind)" />
+        <Maneuver name="One Horizontal Roll" />
+        <Maneuver name="Half Reverse Cuban Eight" />
+        <Maneuver name="Cobra without Rolls" />
+        <Maneuver name="Immelmann Turn" />
+        <Maneuver name="45 Degree Downline" />
+        <Maneuver name="EXIT BOX (downwind-free turnaround)" />
+        <Maneuver name="ENTER BOX (going upwind)" />
+        <Maneuver name="45 Degree Upline" />
+        <Maneuver name="Split S" />
+        <Maneuver name="Two Point Roll" />
+        <Maneuver name="Half Cuban Eight" />
+        <Maneuver name="Two Inside Loops" />
+        <Maneuver name="EXIT BOX" />
+        <Maneuver name="Landing Sequence" />
+    </Sequence>
+
+    <Sequence name="Intermediate">
+        <Maneuver name="Takeoff Sequence" />
+        <Maneuver name="Triangle Loop" />
+        <Maneuver name="Immelman Turn with one half Loop, one half Roll" />
+        <Maneuver name="One Outside Loop" />
+        <Maneuver name="Split S with 2 of 4 Roll, one half Loop" />
+        <Maneuver name="Stall Turn with one quarter Rolls up and down" />
+        <Maneuver name="Humpty Bump with Roll Options" />
+        <Maneuver name="Two Horizontal Rolls" />
+        <Maneuver name="Stall Turn without Rolls" />
+        <Maneuver name="Square Loop on Corner" />
+        <Maneuver name="Reverse Sharks Tooth with one half Roll on 45" />
+        <Maneuver name="Two one half Rolls opposite" />
+        <Maneuver name="Top Hat with one quarter Rolls up and down" />
+        <Maneuver name="Reverse Cuban Eight with one half Rolls" />
+        <Maneuver name="Half Loop" />
+        <Maneuver name="Double Immelman with one half Rolls" />
+        <Maneuver name="Half Square Loop" />
+        <Maneuver name="Cobra Roll with one half Rolls" />
+        <Maneuver name="Landing Sequence" />
+    </Sequence>
+
+    <Sequence name="Advanced">
+        <Maneuver name="Takeoff Sequence" />
+        <Maneuver name="Double Stall turn with three quarter Rolls up, one quarter Roll down" />
+        <Maneuver name="Half Square Loop, 2 of 2 Roll up" />
+        <Maneuver name="Double Immelman with Full Roll, one half Roll" />
+        <Maneuver name="Goldfish with one half Roll in second 45" />
+        <Maneuver name="Avalanche" />
+        <Maneuver name="Top Hat, three quarter Roll up, one quarter Roll down" />
+        <Maneuver name="Slow Roll" />
+        <Maneuver name="Stall Turn, one half Roll down" />
+        <Maneuver name="Cobra Roll, one half Roll up, positive Snap Roll down" />
+        <Maneuver name="Shark's Tooth with one half Roll up and two one half Rolls opposite on 45" />
+        <Maneuver name="Square S with one half Roll in middle horizontal leg" />
+        <Maneuver name="Split S Roll Combo with one half Roll, one half Loop, one half Roll" />
+        <Maneuver name="Square Loop on Corner with one half Rolls in legs 1 and 4" />
+        <Maneuver name="Humpty Bump with Options" />
+        <Maneuver name="Four Point Roll" />
+        <Maneuver name="Half Square Loop with a 2 of 4 Roll" />
+        <Maneuver name="2 and one half, Turn Spin, one half Roll" />
+        <Maneuver name="Landing Sequence 1" />
+    </Sequence>
+
+    <Sequence name="Masters">
+        <Maneuver name="Takeoff Sequence" />
+        <Maneuver name="Double Immelman with Knife Edge flight" />
+        <Maneuver name="Half square loop on corner with 2 of 4 roll in leg 2" />
+        <Maneuver name="Triangle loop from top, one half rolls on fortyfives, one and one half snap on top leg" />
+        <Maneuver name="Half square loop with snap roll in down track" />
+        <Maneuver name="Six-sided loop, 2 of 4 roll in leg 2, two one quarter rolls opposite in leg 4" />
+        <Maneuver name="Humpty Bump with roll options; 2 of 2 roll up, full roll down; or 3 of 4 up and three quarter down" />
+        <Maneuver name="Knife Edge flight with three quarter rolls in and out" />
+        <Maneuver name="Stall Turn with two one quarter rolls opposite up, one half roll down" />
+        <Maneuver name="Vertical Cuban Eight with one half roll, full roll" />
+        <Maneuver name="Trombone with roll" />
+        <Maneuver name="Golf Ball with one half rolls" />
+        <Maneuver name="Top Hat, 3 of 4 roll up, three quarter roll down" />
+        <Maneuver name="Figure Z with 4 o 8 roll in 45" />
+        <Maneuver name="Inverted 2-turn spin" />
+        <Maneuver name="Two slow rolls opposite" />
+        <Maneuver name="Stall turn with one half rolls up and down" />
+        <Maneuver name="Loop with integrated roll in top 180" />
+        <Maneuver name="Landing Sequence" />
+    </Sequence>
+</AMASequences>
